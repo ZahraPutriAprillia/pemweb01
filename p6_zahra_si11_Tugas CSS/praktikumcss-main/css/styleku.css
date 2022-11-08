@@ -66,10 +66,12 @@ blockquote{
     color: grey;
     font-weight: bold;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 
 }
 
-h4{
+.harga h4{
     color: black;
     font-size: 18px;
+    text-align: center;
 }
