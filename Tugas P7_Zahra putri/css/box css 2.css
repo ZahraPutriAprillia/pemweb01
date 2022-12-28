@@ -1,0 +1,39 @@
+div{
+    height: 150px;
+    /*border-radius: 20px;*/
+    border: 1px solid black;
+}
+
+.kotak1{
+    background-color: silver;
+    margin-bottom: 50px;
+    position: relative;
+    width: auto;
+    height: 200px;
+}
+
+.kotak2{
+    background-color: lightblue;
+    position: absolute;
+    width: 25%;
+    margin-bottom: 40px;
+}
+
+.kotak3{
+    background-color: lightseagreen;
+    width: 70%;
+    margin-left: auto;
+    margin-bottom: 40px;
+}
+
+.kotak4{
+    background-color: lightblue;
+    position: absolute;
+    width: 25%;
+}
+
+.kotak5{
+    background-color: lightslategray;
+    width: 70%;
+    margin-left: auto;
+}
